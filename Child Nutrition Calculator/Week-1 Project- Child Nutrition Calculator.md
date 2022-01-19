@@ -101,23 +101,7 @@ else:
 ```
 
 # <font color='red'><center>BMI Categories </center></font>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 200%;
-}
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 10px;
-}
-
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-</style>
 <table>
   <tr>
     <th>BMI</th>
