@@ -8,3 +8,6 @@ This repo contains Python project, made by me, during second year(4th semester).
 ### <a href="https://github.com/singhmansi25/Python-Projects-upgrad-/tree/main/Binary_Search_Algorithm">2. Binary Search Algorithm </a>
 ![DuckLookingGIF](https://user-images.githubusercontent.com/76874762/153716040-a18c1710-5bb6-4f81-889e-43148a3f1e6a.gif)
 ![DuckLookingGIF](https://user-images.githubusercontent.com/76874762/153716040-a18c1710-5bb6-4f81-889e-43148a3f1e6a.gif)
+
+### 3.Mathematical Calculator
+![CalculatingNumbersGIF](https://user-images.githubusercontent.com/76874762/153716238-91620745-d173-4b73-b6c4-5b4c63383db1.gif)
