@@ -8,3 +8,15 @@ The user has to enter values for choice of operation, 2 operands. The answer is 
 - Tkinter
 - Math
 - Functool
+
+## Various mathematical function present in Calculator
+- ADDITION
+- SUBTRACTION
+- MULTIPLICATION
+- DIVISION
+- POWER
+- LOGARITHM
+- HIGHEST COMMON FACTOR (HCF)
+- LOWEST COMMON MULTIPLE (LCM)
+
+## Output Screen
