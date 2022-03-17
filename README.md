@@ -11,3 +11,6 @@ This repo contains Python project, made by me, during second year(4th semester).
 
 ### <a href="https://github.com/singhmansi25/Python-Projects-upgrad-/tree/main/Mathematical%20Calculator">3.Mathematical Calculator </a>
 ![CalculatingNumbersGIF](https://user-images.githubusercontent.com/76874762/153716238-91620745-d173-4b73-b6c4-5b4c63383db1.gif)
+
+### <a href="">3.Tic Tac Toe Game </a>
+![TicTacToeGIF](https://user-images.githubusercontent.com/76874762/158867355-b47bf7c2-6bc1-4991-8ce7-05c84d8403b6.gif)
