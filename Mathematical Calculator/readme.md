@@ -27,6 +27,6 @@ The user has to enter values for choice of operation, 2 operands. The answer is 
 <img width="544" alt="Screenshot 2022-02-24 182128" src="https://user-images.githubusercontent.com/76874762/155527889-232ec3cb-fc25-4e4c-8b9c-28a9113a5147.png">
 
 # Video Link
-You can watch how the GUI based calculator actuall works like.
+You can watch how the GUI based calculator actually works like.
 
 https://clipchamp.com/watch/g0QshGZxIkA
