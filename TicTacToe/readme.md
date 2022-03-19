@@ -24,4 +24,8 @@ If no one can logically create a straight line with its symbol, the game ends in
 
 - You need to run our game inside an infinite loop. It will continuously look for events and when a user presses the mouse button on the grid we will first get the X and Y coordinates of the mouse. Then we will check which square the user has clicked. Then we will draw the appropriate ‘X’ or ‘O’ image on the canvas. 
 
+## Video Link
+Here is how the project output looks like:
+
+https://clipchamp.com/watch/g0QshGZxIkA
 
