@@ -31,5 +31,6 @@ The application will have an account creation option, wherein some users can be 
 
 ![image](https://user-images.githubusercontent.com/76874762/160052152-92a2a80b-43e6-4aae-89b2-99fb4d357e65.png)
 
-
-
+## Video of Output
+<a href="https://clipchamp.com/watch/cLD7V6xxzMw
+"> Quiz App 👈</a>
