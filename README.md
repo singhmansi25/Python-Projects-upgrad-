@@ -18,4 +18,5 @@ This repo contains Python projects, made by me, during second year(4th semester)
 ### <a href="https://github.com/singhmansi25/Python-Projects-upgrad-/blob/main/GUI%20Quiz%20Application/Project%20-%20GUI%20Quiz%20App.ipynb">5. GUI Quiz Application </a>
 ![QuizTimeGameGIF](https://user-images.githubusercontent.com/76874762/160051360-ca48292a-4e44-41dd-99d7-81966c41709e.gif)
 
-### <a href="">6. Number Game </a>
+### <a href="">6. Number Guessing Game </a>
+![FrustratedTheresNoNumbersGIF](https://user-images.githubusercontent.com/76874762/162446847-a6698da2-5850-4727-9e98-26be295d6342.gif)
