@@ -1,5 +1,5 @@
 # Python-Projects-under Upgrad
-This repo contains Python project, made by me, during second year(4th semester).
+This repo contains Python projects, made by me, during second year(4th semester).
 
 ## Projects:
 ### <a href="https://github.com/singhmansi25/Python-Projects-upgrad-/tree/main/Child%20Nutrition%20Calculator">1. Child Nutrition Calculator </a>
@@ -17,3 +17,5 @@ This repo contains Python project, made by me, during second year(4th semester).
 
 ### <a href="https://github.com/singhmansi25/Python-Projects-upgrad-/blob/main/GUI%20Quiz%20Application/Project%20-%20GUI%20Quiz%20App.ipynb">5. GUI Quiz Application </a>
 ![QuizTimeGameGIF](https://user-images.githubusercontent.com/76874762/160051360-ca48292a-4e44-41dd-99d7-81966c41709e.gif)
+
+### <a href="">6. Number Game </a>
