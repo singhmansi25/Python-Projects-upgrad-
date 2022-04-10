@@ -20,3 +20,6 @@ This repo contains Python projects, made by me, during second year(4th semester)
 
 ### <a href="">6. Number Guessing Game </a>
 ![FrustratedTheresNoNumbersGIF](https://user-images.githubusercontent.com/76874762/162446847-a6698da2-5850-4727-9e98-26be295d6342.gif)
+
+### <a href="">7. IMDb movie assignment </a>
+![MovieTimeGIF](https://user-images.githubusercontent.com/76874762/162620404-53c364c5-5157-4e78-977a-4d8cb3e4973c.gif)
