@@ -21,5 +21,6 @@ This repo contains Python projects, made by me, during second year(4th semester)
 ### <a href="">6. Number Guessing Game </a>
 ![FrustratedTheresNoNumbersGIF](https://user-images.githubusercontent.com/76874762/162446847-a6698da2-5850-4727-9e98-26be295d6342.gif)
 
-### <a href="">7. IMDb movie assignment </a>
-![MovieTimeGIF](https://user-images.githubusercontent.com/76874762/162620404-53c364c5-5157-4e78-977a-4d8cb3e4973c.gif)
+### <a href="">7. Uber Demand-Supply Gap Assignment </a>
+![AppTaxiGIF](https://user-images.githubusercontent.com/76874762/163526900-0abae4d8-c49c-4988-b3e9-f84c2caec2d3.gif)
+
