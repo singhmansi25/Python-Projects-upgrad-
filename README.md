@@ -24,3 +24,7 @@ This repo contains Python projects, made by me, during second year(4th semester)
 ### <a href="">7. Uber Supply-Demand Gap Assignment </a>
 ![AppTaxiGIF](https://user-images.githubusercontent.com/76874762/163526900-0abae4d8-c49c-4988-b3e9-f84c2caec2d3.gif)
 
+### <a href="">8. IMDb Movie Case Study </a>
+![SnejniMischeNetflixAndChillGIF](https://user-images.githubusercontent.com/76874762/163752049-2ecc69f1-6f8d-4b2d-8ca4-3cfe720c6ffa.gif)
+
+
