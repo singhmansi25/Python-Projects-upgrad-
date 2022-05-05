@@ -19,3 +19,5 @@ In this assignment, we will try to find some interesting insights into these mov
 
 ## Exercise on Plotly
 <a href="https://github.com/singhmansi25/Python-Projects-upgrad-/blob/817317bf8eb220aacce9a1d863e37765869ccf8e/IMDb%20Movie%20Case%20Study/Bonus_question_code_stub_plotly.ipynb">Click here for jupyter notebook containing Plotly questions</a>
+
+![MovieNetflixGIF](https://user-images.githubusercontent.com/76874762/166860390-3bf899a3-c5d9-4c57-af40-10a684bd35ff.gif)
